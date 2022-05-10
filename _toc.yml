@@ -4,8 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: 1_summary
-- file: 2_introduction
-- file: 3_ds_techniques
-- file: 4_timeline
-- file: citation
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
